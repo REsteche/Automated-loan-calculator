@@ -1,4 +1,4 @@
-# Automated-loan-calculator project from JetBrains
+# Automated loan calculator project from JetBrains
 
 One of the first Python Education projects that i have done in JetBrains Plataform while learning the fundamentals of the language. Here, you can find the scope of each file divided into the subfolders of that repository.
 
